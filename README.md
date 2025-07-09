@@ -2,4 +2,4 @@
 -  Professor: Sabrina Marczak
 -  Código: 46517-02
 -  Semestre: 2025/1
--  Nota: cursando
+-  Nota: 8.9
